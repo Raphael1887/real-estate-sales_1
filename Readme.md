@@ -29,7 +29,7 @@ Avant de lancer le projet, assurez-vous d’avoir :
 4. Installation & Utilisation
 Étape 1 – Cloner le dépôt
 cd real-estate-etl
-git clone https://github.com/votre-nom/real-estate-etl.git -- chnager le lien
+git clone https://github.com/Raphael1887/real-estate-sales_1.git
 
 Étape 2 Télécharger les données
 Le script télécharge les données brutes et crée le fichier nettoyé :
@@ -55,3 +55,4 @@ Le code permet :
 Puis accéder à : http://localhost:8080
 
 Étape 5 - Deploiement sur Azure
+
