@@ -1,0 +1,5 @@
+export RESOURCE_GROUP="rg-housing-ml-prod"
+export LOCATION="westeurope"
+export APP_NAME="housing-api-$(whoami)-$RANDOM"
+export PLAN_NAME="plan-housing-ml"
+export SKU="B1"

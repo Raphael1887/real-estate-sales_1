@@ -1,0 +1,14 @@
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.env
+.DS_Store
+data/*.csv
+!data/.gitkeep
+*.pkl
+!api/model/housing_model.pkl
+.idea/
+.vscode/
+*.zip
